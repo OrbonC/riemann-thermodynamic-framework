@@ -1,0 +1,23 @@
+# ---- TeX build artifacts ----
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lot
+*.lof
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+
+# ---- macOS and Windows junk ----
+.DS_Store
+Thumbs.db
+
+# ---- Python / notebooks (optional) ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
